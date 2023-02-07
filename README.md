@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm PsychedelicsEyes</h1>
 <h3 align="center">I'm developper full stack</h3>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **SeaWorm**
 
 - 🌱 I’m currently learning **Front-end developpement**
 
